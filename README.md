@@ -5,12 +5,16 @@
 ## 🖨️ Repository Description / Descrição do Repositório
 
 ### 🇺🇸 English
-This repository contains all the **3D model files** required to print **external modules and custom accessories** to enhance the functionality of the **High Boy device from HighCode**.
+This repository contains all the **3D model files** required to print **external modules and custom accessories** to enhance the functionality of the **High Boy device**.
+
+The official High Boy project is maintained by **[@HighCodeh](https://github.com/HighCodeh)** at their main repository: **[HighCodeh/Highboy](https://github.com/HighCodeh/Highboy)**.
 
 > **Note:** All models are optimized for integration with the High Boy. Ensure your 3D printer and materials are suitable for the desired parts.
 
 ### 🇧🇷 Português
-Este repositório contém todos os **arquivos de modelo 3D** necessários para imprimir **módulos externos e acessórios personalizados** para aprimorar a funcionalidade do **dispositivo High Boy da HighCode**.
+Este repositório contém todos os **arquivos de modelo 3D** necessários para imprimir **módulos externos e acessórios personalizados** para aprimorar a funcionalidade do **dispositivo High Boy**.
+
+O projeto oficial do High Boy é mantido por **[@HighCodeh](https://github.com/HighCodeh)** no seu repositório principal: **[HighCodeh/Highboy](https://github.com/HighCodeh/Highboy)**.
 
 > **Nota:** Todos os modelos são otimizados para integração com o High Boy. Certifique-se de que sua impressora 3D e seus materiais são adequados para as peças desejadas.
 
